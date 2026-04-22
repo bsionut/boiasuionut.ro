@@ -4,8 +4,8 @@ import { Menu, X } from 'lucide-react'
 import { WA_LINK } from '../config'
 
 const links = [
-  { label: 'Ce fac', href: '#servicii' },
-  { label: 'Cum funcționează', href: '#proces' },
+  { label: 'Servicii', href: '#servicii' },
+  { label: 'Produse', href: '#produse' },
   { label: 'Proiecte', href: '#portofoliu' },
   { label: 'Despre mine', href: '#despre' },
   { label: 'Contact', href: '#contact' },

@@ -2,6 +2,7 @@ import './index.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Services from './components/Services'
+import Products from './components/Products'
 import Process from './components/Process'
 import Portfolio from './components/Portfolio'
 import TechStack from './components/TechStack'
@@ -16,6 +17,7 @@ export default function App() {
       <main>
         <Hero />
         <Services />
+        <Products />
         <Process />
         <Portfolio />
         <TechStack />
